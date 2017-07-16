@@ -1,0 +1,11 @@
+[Desktop Entry]
+Encoding=UTF-8
+Exec=minecraft
+Icon=/usr/share/applications/mc.png
+Type=Application
+Terminal=false
+Comment=Play Minecraft
+Name=Minecraft
+GenericName=Minecraft
+StartupNotify=false
+Categories=Games;Java;

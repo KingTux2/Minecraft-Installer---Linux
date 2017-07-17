@@ -1,4 +1,6 @@
 echo "Installing Minecraft..."
+echo "Downloading Minecraft"
+wget http://s3.amazonaws.com/Minecraft.Download/launcher/Minecraft.jar
 
 echo  "Making Command"
 echo "Need Permission to create startup files"
